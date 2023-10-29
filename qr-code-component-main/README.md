@@ -57,4 +57,4 @@ You can contribute to this project by resolving issues and suggesting improvemen
 
 ## Acknowledgments
 
-Thanks to [frontendmentor.io](https://www.frontendmentor.io/home) for this bunch of projects to started with frontend development.
+Thanks to [frontendmentor.io](https://www.frontendmentor.io/home) for this bunch of projects to get started with frontend development.
