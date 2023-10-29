@@ -30,7 +30,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
+- [Solution](https://www.frontendmentor.io/solutions/qr-code-card-using-css-grid-and-flex-O9hnnFyJKE)
 - [Live site](https://coding-with-parthasarathi.github.io/qr-code/)
 
 ## My process
